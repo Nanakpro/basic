@@ -27,11 +27,11 @@ https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png" group-title="MALAYSIA",DIDIK TV
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 
-#EXTINF:-1 tvg-id="DramaSangat" group-title="MuZu | myFreeview" ch-number="105" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",105 Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" group-title="myFreeview" ch-number="105" tvg-logo="http://mediahomes.github.io/logos/drama-sangat.png",105 Drama Sangat
 # https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 https://aqfad.netlify.app/stream/DramaSangat.m3u8
 
-#EXTINF:-1 tvg-id="TVSUKAN" group-title="MuZu | Sport" ch-number="111" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
+#EXTINF:-1 tvg-id="TVSUKAN" group-title="Sport" ch-number="111" tvg-logo="https://mediahomes.github.io/logos/sukan.png",111 Sukan RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
 # https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
